@@ -1,0 +1,6 @@
+E:\P409\C#\P409FirstApp\P409FirstApp\bin\Debug\P409FirstApp.exe.config
+E:\P409\C#\P409FirstApp\P409FirstApp\bin\Debug\P409FirstApp.exe
+E:\P409\C#\P409FirstApp\P409FirstApp\bin\Debug\P409FirstApp.pdb
+E:\P409\C#\P409FirstApp\P409FirstApp\obj\Debug\P409FirstApp.csprojAssemblyReference.cache
+E:\P409\C#\P409FirstApp\P409FirstApp\obj\Debug\P409FirstApp.exe
+E:\P409\C#\P409FirstApp\P409FirstApp\obj\Debug\P409FirstApp.pdb
